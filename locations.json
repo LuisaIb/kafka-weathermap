@@ -1,0 +1,102 @@
+{
+    "Berlin": {
+        "latitude": 52.5244,
+        "longitude": 13.4105
+    },
+    "Dresden": {
+        "latitude": 51.0509,
+        "longitude": 13.7383
+    },
+    "Frankfurt am Main": {
+        "latitude": 50.1167,
+        "longitude": 8.6833
+    },
+    "Freiburg": {
+        "latitude": 47.9959,
+        "longitude": 7.8522
+    },
+    "Kiel": {
+        "latitude": 54.3213,
+        "longitude": 10.1349
+    },
+    "K\u00f6ln": {
+        "latitude": 50.9333,
+        "longitude": 6.95
+    },
+    "Leipzig": {
+        "latitude": 51.342,
+        "longitude": 12.375
+    },
+    "Mannheim": {
+        "latitude": 49.4883,
+        "longitude": 8.4647
+    },
+    "M\u00fcnchen": {
+        "latitude": 48.1374,
+        "longitude": 11.5755
+    },
+    "M\u00fcnster": {
+        "latitude": 51.9624,
+        "longitude": 7.6257
+    },
+    "Ravensburg": {
+        "latitude": 47.7833,
+        "longitude": 9.6167
+    },
+    "Rostock": {
+        "latitude": 54.0887,
+        "longitude": 12.1405
+    },
+    "Stuttgart": {
+        "latitude": 48.7823,
+        "longitude": 9.177
+    },
+    "Paris": {
+        "latitude": 48.8534,
+        "longitude": 2.3488
+    },
+    "London": {
+        "latitude": 51.5085,
+        "longitude": -0.1257
+    },
+    "Z\u00fcrich": {
+        "latitude": 47.3667,
+        "longitude": 8.55
+    },
+    "Wien": {
+        "latitude": 48.2085,
+        "longitude": 16.3721
+    },
+    "Rom": {
+        "latitude": 41.8947,
+        "longitude": 12.4839
+    },
+    "Amsterdam": {
+        "latitude": 52.374,
+        "longitude": 4.8897
+    },
+    "Prag": {
+        "latitude": 50.088,
+        "longitude": 14.4208
+    },
+    "Mailand": {
+        "latitude": 45.4643,
+        "longitude": 9.1895
+    },
+    "Marseille": {
+        "latitude": 43.3333,
+        "longitude": 5.5
+    },
+    "Br\u00fcssel": {
+        "latitude": 50.8504,
+        "longitude": 4.3488
+    },
+    "Warschau": {
+        "latitude": 52.2298,
+        "longitude": 21.0118
+    },
+    "Hamburg": {
+        "latitude": 53.55,
+        "longitude": 10
+    }
+}
